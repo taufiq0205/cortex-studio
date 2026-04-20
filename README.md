@@ -2,7 +2,7 @@
 
 **Full-stack AI platform demonstrating LLM integration, structured outputs, and agent-style routing.**
 
-Built with Next.js + FastAPI + LM Studio as a production-pattern portfolio project targeting Full-Stack AI Engineer roles. No LangChain. No magic. Just clean, readable code that shows you understand how LLM systems actually work.
+Built with Next.js + FastAPI + LM Studio. No LangChain. No magic. Just clean, readable code that shows you understand how LLM systems actually work.
 
 ---
 
@@ -229,10 +229,7 @@ cortex-studio/
 
 ## Author
 
-Built by [Your Name] as a portfolio project demonstrating full-stack AI engineering skills.
-
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+Built by Taufiq as a portfolio project .
 
 ---
 
